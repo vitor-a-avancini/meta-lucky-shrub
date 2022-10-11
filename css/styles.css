@@ -195,3 +195,28 @@ div~div{
 a{
     color: #fff;
 }
+
+
+/* Carousel*/
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Make the images invisible by default */
+.Containers {
+  display: none;
+}
+
+/* Caption Info */
+.Info {
+  color: #26877F;
+  font-size: 16px;
+  padding: 0 10px 14px;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
